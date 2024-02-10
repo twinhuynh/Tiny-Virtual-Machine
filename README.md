@@ -1,5 +1,5 @@
 Tiny Virtual Machine
-one paragraph stating what is your program doing
+
 The program acts as a machine that takes in set of instructions and executing it. 
 It reads a .txt file with set of instructions containing opcodes line by line, then
 storing it into an array of instructions (Program Memory). After all the instructions
